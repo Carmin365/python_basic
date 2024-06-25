@@ -15,4 +15,4 @@
 #### Exemplo 1 => Acesse o aquivo: exOnePy.py
 #### Example 1 => Acesses the file: exOnePy.py
 #### 2 - Variáveis e Tipos de Dados: As variáveis depositam valores que podem ser usados ao longo do programa. Python possui diferentes tipos de dados, como números(int, float), strings(str), e booleanos(bool).
-#### 2 - 
+####  
