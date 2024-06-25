@@ -7,5 +7,6 @@
 ### Comandos Essenciais da Linguagem Python  
 ### Essential Commands of th Python Language
 # 
-#### A linguagem Python apresenta diversos comandos
+#### A linguagem Python apresenta diversos comandos importantes e multifuncionais para contribuir na programação.
+#### 
 
