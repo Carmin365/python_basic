@@ -12,3 +12,6 @@
 #
 #### 1 - Comando Print(): O comando print() é essencial para demonstrar dados na tela do console. É geralmente usado para exibir mensagens, resultados de operações e variáveis.
 #### 1 - Print() Command: The print() command is essential for displaying data on the console screen. It is generally used to displays messages, results of operations or variables.   
+#### Exemplo 1 => Acesse o aquivo: exOnePy.py
+#### Example 1 => Acesses the file: exOnePy.py
+####
