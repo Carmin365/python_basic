@@ -11,4 +11,4 @@
 #### The python language presents several important and multifunctional commands to contribute to programming. To aid the study, I highlighted some of the most used commands, along with practical examples that teach their functions: 
 #
 #### 1 - Comando Print(): O comando print() é essencial para demonstrar dados na tela do console. É geralmente usado para exibir mensagens, resultados de operações e variáveis.
-#### 1 - Print() Command: The print() command is essential for displaying data on the console screen.
+#### 1 - Print() Command: The print() command is essential for displaying data on the console screen. It is generally used to displays messages, results of operations or variables.   
