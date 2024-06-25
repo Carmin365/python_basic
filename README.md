@@ -8,5 +8,6 @@
 ### Essential Commands of th Python Language
 # 
 #### A linguagem Python apresenta diversos comandos importantes e multifuncionais para contribuir na programação.
+#### Para auxiliar o estudo, destaquei alguns dos comandos mais empregados, juntamente com exemplos básicos que ensinam suas funções: 
 #### 
 
