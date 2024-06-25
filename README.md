@@ -14,4 +14,5 @@
 #### 1 - Print() Command: The print() command is essential for displaying data on the console screen. It is generally used to displays messages, results of operations or variables.   
 #### Exemplo 1 => Acesse o aquivo: exOnePy.py
 #### Example 1 => Acesses the file: exOnePy.py
-####
+#### 2 - Variáveis e Tipos de Dados: As variáveis depositam valores que podem ser usados ao longo do programa. Python possui diferentes tipos de dados, como números(int, float), strings(str), e booleanos(bool).
+#### 2 - 
