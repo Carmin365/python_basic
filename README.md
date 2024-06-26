@@ -23,7 +23,7 @@
 #### 3 - Operadores Matenáticos: Python apresenta diversos operadores matemáticos para produzir operações aritméticas basicas(+, -, *, /) e complexas.
 #### 3 - Mathematical Operators: Python presents several mathematical operators to produce basic(+, -, *, /) and complex arithmetic operations. 
 #### Exemplo 3 => Acesse o aquivo: exThreePy.py
-#### Example 3 => Acesses the file: eThreePy.py
+#### Example 3 => Acesses the file: exThreePy.py
 #
 ####
 ####
