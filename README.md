@@ -25,5 +25,9 @@
 #### Exemplo 3 => Acesse o aquivo: exThreePy.py
 #### Example 3 => Acesses the file: exThreePy.py
 #
-####
+#### 4 - Estruturas de Controle de Fluxo: As estruturas de controle de Fluxo possibilitam direcionar o fluxo da execução do programa de acordo com determinadas condições. 
+#### 4 - Flow Control Structures: Flow control structures make it possible to direct the flow of program execution according to certain conditions. 
+#### Exemplo 4 => Acesse o aquivo: exFourPy.py
+#### Example 4 => Acesses the file: exFourPy.py
+#
 ####
