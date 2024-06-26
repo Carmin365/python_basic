@@ -15,4 +15,6 @@
 #### Exemplo 1 => Acesse o aquivo: exOnePy.py
 #### Example 1 => Acesses the file: exOnePy.py
 #### 2 - Variáveis e Tipos de Dados: As variáveis depositam valores que podem ser usados ao longo do programa. Python possui diferentes tipos de dados, como números(int, float), strings(str), e booleanos(bool).
-####  ...
+#### 2 - Variables and Data Types: Variables store values, that can be used throughout the program. Python has different data types such as numbers(int, float), strings(str) and booleans(bool).
+#### Exemplo 2 => Acesse o aquivo: exTwoPy.py
+#### Example 2 => Acesses the file: eTwoPy.py
