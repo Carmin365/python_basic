@@ -35,4 +35,9 @@
 #### Exemplo 5 => Acesse o aquivo: exFivePy.py
 #### Example 5 => Acesses the file: exFivePy.py
 # 
-#### 
+#### Materiais Complementares: 
+#### Complementary Materials: 
+#### https://www.w3schools.com/
+#### https://python-reference.readthedocs.io/en/latest/index.html
+#
+#### ...
