@@ -30,4 +30,9 @@
 #### Exemplo 4 => Acesse o aquivo: exFourPy.py
 #### Example 4 => Acesses the file: exFourPy.py
 #
-####
+#### 5 - Estruturas de Repetição: As estruturas de repetição proporcionam executar um bloco de código várias vezes, até que uma condição seja satisfeita.
+#### 5 - Repetition Structures: Repetition structures allow executing a block of code several times, until a condition is satisfied.
+#### Exemplo 5 => Acesse o aquivo: exFivePy.py
+#### Example 5 => Acesses the file: exFivePy.py
+# 
+#### 
