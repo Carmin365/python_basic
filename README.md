@@ -40,4 +40,8 @@
 #### https://www.w3schools.com/
 #### https://python-reference.readthedocs.io/en/latest/index.html
 #
-#### ...
+#### 6 - Funções: As funções são blocos de códigos reutilizáveis que podem adotar parâmetros e valores. Elas são fundamentais para modularizar o código e torná-lo mais organizado.
+#### 6 - Functions: Functions are reusable code blocks that can adopt parameters and values. They are essential for modularizing the code and making it more organized.
+#### Exemplo 6 => Acesse o aquivo: exSixPy.py
+#### Example 6 => Acesses the file: exSixPy.py
+#
