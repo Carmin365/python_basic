@@ -44,4 +44,9 @@
 #### 6 - Functions: Functions are reusable code blocks that can adopt parameters and values. They are essential for modularizing the code and making it more organized.
 #### Exemplo 6 => Acesse o aquivo: exSixPy.py
 #### Example 6 => Acesses the file: exSixPy.py
+#
+#### Materiais Complementares: 
+#### Complementary Materials: 
+#### https:// www.w3schools.com/python/python_functions.asp
+#
 #### ...
