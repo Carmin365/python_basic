@@ -54,4 +54,5 @@
 #### Exemplo 7 => Acesse o aquivo: exSevenPy.py
 #### Example 7 => Acesses the file: exSevenPy.py
 #
-
+#### 8 - Dicionários: Os dicionários são conjuntos não ordenados de chaves e valores. Permitem depositar e acessar informações de forma associativa.
+#### 8 - Dictionaries: 
