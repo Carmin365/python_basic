@@ -71,11 +71,12 @@
 #### https://awari.com.br/funcao-python-para-manipulacao-de-strings/?utm_source=blog&utm_campaign=projeto+blog&utm_medium-Fun%C3%A7%C3%A3o%20Python%20para%20Manipula%C3%A7%C3%A3o%20de%20Strings
 #
 #
+#
 ## *Gostou do Conteúdo?
 ## *Did you like the content?
 #
-## Breve estará disponível o Compilado Prático de nível Intermediário.
-## The Intermediate level Practical Compilation will soon be available.
+### Breve estará disponível o Compilado Prático de nível Intermediário.
+### The Intermediate level Practical Compilation will soon be available.
 #
 ## Bons Estudos!
 ## Happy Studies!
