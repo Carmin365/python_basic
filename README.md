@@ -68,7 +68,23 @@
 #### Complementary Materials:
 #### https://wiki.python.org.br/ManipulandoStringsComPython
 #### https://awari.com.br/lista-de-strings-em-python-aprenda-a-manipular-dados-de-forma-eficiente/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Lista%20de%20Strings%20em%20Python:%20Aprenda%20a%Manipular%20Dados%20de%20Forma%20Eficiente
-#### https://awari.com.br/funcao-python-para-manipulacao-de-strings/?utm_source=blog&utm_campaign=projeto+blog&utm_medium-Fun%C3%A7%C3%A3o%20Python%20para%20Manipula%C3%A7%C
+#### https://awari.com.br/funcao-python-para-manipulacao-de-strings/?utm_source=blog&utm_campaign=projeto+blog&utm_medium-Fun%C3%A7%C3%A3o%20Python%20para%20Manipula%C3%A7%C3%A3o%20de%20Strings
+#
+#
+## *Gostou do Conteúdo?
+## *Did you like the content?
+#
+## Breve estará disponível o Compilado Prático de nível Intermediário.
+## The Intermediate level Practical Compilation will soon be available.
+#
+## Bons Estudos!
+## Happy Studies!
+#
+### > Este conteúdo foi produzido por Carmin Dias Ilarraz.
+### > This content was produced by Carmin Dias Ilarraz.
+#
+### Contato via mensagêns eletrônicas: @carmin.ilarraz
+### Contact via eletrônic messages: @carmin.ilarraz
 
 
 
