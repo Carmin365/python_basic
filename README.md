@@ -49,4 +49,9 @@
 #### Complementary Materials: 
 #### https:// www.w3schools.com/python/python_functions.asp
 #
-#### ...
+#### 7 - Listas: As listas são conjuntos ordenados e mutáveis de dados. Permitem armazenar e manipular diferentes elementos de maneira eficiente. 
+#### 7 - Lists: Lists are ordered and changeable sets of data. They allow you to store and manipulate different elements efficiently. 
+#### Exemplo 7 => Acesse o aquivo: exSevenPy.py
+#### Example 7 => Acesses the file: exSevenPy.py
+#
+
