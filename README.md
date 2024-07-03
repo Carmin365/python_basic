@@ -72,20 +72,20 @@
 #
 #
 #
-## == <p>*Gostou do Conteúdo?==
-## == *Did you like the content?</p> ==
+## <p>*Gostou do Conteúdo?
+## *Did you like the content?</p> 
 #
-### == Breve estará disponível o Compilado Prático de nível Intermediário.==
-### == The Intermediate level Practical Compilation will soon be available.==
+### Breve estará disponível o Compilado Prático de nível Intermediário.
+### The Intermediate level Practical Compilation will soon be available.
 #
-## == <p>Bons Estudos!==
-## == Happy Studies!</p>==
+## <p>Bons Estudos!
+## Happy Studies!</p>
 #
-### == <em>> Este conteúdo foi produzido por Carmin Dias Ilarraz.==
-### == > This content was produced by Carmin Dias Ilarraz.</em> ==
+### <em>> Este conteúdo foi produzido por Carmin Dias Ilarraz.
+### > This content was produced by Carmin Dias Ilarraz.</em> 
 #
-### == Contato via mensagens eletrônicas: @carmin.ilarraz==
-### == Contact via eletrônic messages: @carmin.ilarraz==
+### Contato via mensagens eletrônicas: @carmin.ilarraz
+### Contact via eletrônic messages: @carmin.ilarraz
 
 
 
