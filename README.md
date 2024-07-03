@@ -60,4 +60,10 @@
 #### Example 8 => Acesses the file: exEightPy.py
 #
 #### 9 - Manipulação de Strings: Python concede diferentes funções para manipular strings, como concatenar, dividir, remover caracteres e admitir padrões.
-#### 9 - 
+#### 9 - String Manipulation: Python provides different functions to manipulate strings, such as concatenating, dividing, removing, characters and admitting patterns.
+#### Exemplo 9 => Acesse o aquivo: exNinePy.py
+#### Example 9 => Acesses the file: exNinePy.py
+#
+
+
+
