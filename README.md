@@ -64,6 +64,10 @@
 #### Exemplo 9 => Acesse o aquivo: exNinePy.py
 #### Example 9 => Acesses the file: exNinePy.py
 #
+#### Materiais Complementares: 
+#### Complementary Materials:
+#### https://wiki.python.org.br/ManipulandoStringsComPython
+#### https://awari.com.br/lista-de-strings-em-python-aprenda-a-manipular-dados-de-forma-eficiente/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Lista%20de%20Strings%20em%20Python:%20Aprenda%20a%Manipular%20Dados%20de%20Forma%20Eficiente
 
 
 
