@@ -72,8 +72,8 @@
 #
 #
 #
-## *Gostou do Conteúdo?
-## *Did you like the content?
+## <p>*Gostou do Conteúdo?
+## *Did you like the content?</p>
 #
 ### Breve estará disponível o Compilado Prático de nível Intermediário.
 ### The Intermediate level Practical Compilation will soon be available.
