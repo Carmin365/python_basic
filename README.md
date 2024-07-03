@@ -81,8 +81,8 @@
 ## <p>Bons Estudos!
 ## Happy Studies!</p>
 #
-### > Este conteúdo foi produzido por Carmin Dias Ilarraz.
-### > This content was produced by Carmin Dias Ilarraz.
+### <em>> Este conteúdo foi produzido por Carmin Dias Ilarraz.
+### > This content was produced by Carmin Dias Ilarraz.</em>
 #
 ### Contato via mensagens eletrônicas: @carmin.ilarraz
 ### Contact via eletrônic messages: @carmin.ilarraz
