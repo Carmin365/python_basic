@@ -37,8 +37,8 @@
 # 
 #### Materiais Complementares: 
 #### Complementary Materials: 
-#### https://www.w3schools.com/
-#### https://python-reference.readthedocs.io/en/latest/index.html
+#### <https://www.w3schools.com/>
+#### <https://python-reference.readthedocs.io/en/latest/index.html>
 #
 #### 6 - Funções: As funções são blocos de códigos reutilizáveis que podem adotar parâmetros e valores. Elas são fundamentais para modularizar o código e torná-lo mais organizado.
 #### 6 - Functions: Functions are reusable code blocks that can adopt parameters and values. They are essential for modularizing the code and making it more organized.
@@ -47,7 +47,7 @@
 #
 #### Materiais Complementares: 
 #### Complementary Materials: 
-#### https:// www.w3schools.com/python/python_functions.asp
+#### <https:// www.w3schools.com/python/python_functions.asp>
 #
 #### 7 - Listas: As listas são conjuntos de dados ordenados e mutáveis. Permitem armazenar e manipular diferentes elementos de maneira eficiente. 
 #### 7 - Lists: Lists are ordered, mutable sets of data. They allow you to store and manipulate different elements efficiently. 
@@ -66,9 +66,9 @@
 #
 #### Materiais Complementares: 
 #### Complementary Materials:
-#### https://wiki.python.org.br/ManipulandoStringsComPython
-#### https://awari.com.br/lista-de-strings-em-python-aprenda-a-manipular-dados-de-forma-eficiente/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Lista%20de%20Strings%20em%20Python:%20Aprenda%20a%Manipular%20Dados%20de%20Forma%20Eficiente
-#### https://awari.com.br/funcao-python-para-manipulacao-de-strings/?utm_source=blog&utm_campaign=projeto+blog&utm_medium-Fun%C3%A7%C3%A3o%20Python%20para%20Manipula%C3%A7%C3%A3o%20de%20Strings
+#### <https://wiki.python.org.br/ManipulandoStringsComPython>
+#### <https://awari.com.br/lista-de-strings-em-python-aprenda-a-manipular-dados-de-forma-eficiente/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Lista%20de%20Strings%20em%20Python:%20Aprenda%20a%Manipular%20Dados%20de%20Forma%20Eficiente>
+#### <https://awari.com.br/funcao-python-para-manipulacao-de-strings/?utm_source=blog&utm_campaign=projeto+blog&utm_medium-Fun%C3%A7%C3%A3o%20Python%20para%20Manipula%C3%A7%C3%A3o%20de%20Strings>
 #
 #
 #
@@ -84,8 +84,8 @@
 ### <em>> Este conteúdo foi produzido por Carmin Dias Ilarraz.
 ### > This content was produced by Carmin Dias Ilarraz.</em>
 #
-### Contato via mensagens eletrônicas: @carmin.ilarraz
-### Contact via eletrônic messages: @carmin.ilarraz
+### Contato via mensagens eletrônicas: <@carmin.ilarraz>
+### Contact via eletrônic messages: <@carmin.ilarraz>
 
 
 
