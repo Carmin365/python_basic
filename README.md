@@ -78,8 +78,8 @@
 ### Breve estará disponível o Compilado Prático de nível Intermediário.
 ### The Intermediate level Practical Compilation will soon be available.
 #
-## Bons Estudos!
-## Happy Studies!
+## <p>Bons Estudos!
+## Happy Studies!</p>
 #
 ### > Este conteúdo foi produzido por Carmin Dias Ilarraz.
 ### > This content was produced by Carmin Dias Ilarraz.
