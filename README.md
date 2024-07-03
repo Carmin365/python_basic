@@ -55,7 +55,7 @@
 #### Example 7 => Acesses the file: exSevenPy.py
 #
 #### 8 - Dicionários: Os dicionários são conjuntos não ordenados de chaves e valores. Permitem depositar e acessar informações de forma associativa.
-#### 8 - Dictionaries: Dictionaries are unordered sets ok keys and values. They allow depositing and accessing information in an associative way.
+#### 8 - Dictionaries: Dictionaries are unordered sets of keys and values. They allow depositing and accessing information in an associative way.
 #### Exemplo 8 => Acesse o aquivo: exEightPy.py
 #### Example 8 => Acesses the file: exEightPy.py
 #
