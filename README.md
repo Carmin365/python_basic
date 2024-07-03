@@ -84,7 +84,7 @@
 ### > Este conteúdo foi produzido por Carmin Dias Ilarraz.
 ### > This content was produced by Carmin Dias Ilarraz.
 #
-### Contato via mensagêns eletrônicas: @carmin.ilarraz
+### Contato via mensagens eletrônicas: @carmin.ilarraz
 ### Contact via eletrônic messages: @carmin.ilarraz
 
 
