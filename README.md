@@ -1,11 +1,11 @@
-# * Compilado Prático para Não-Iniciados em Programação 
-# * Practical Compiled for Non-Initiates in Programming 
+# ==* Compilado Prático para Não-Iniciados em Programação== 
+# ==* Practical Compiled for Non-Initiates in Programming==
 #
-## => Python Básico 
-## => Python Basic
+## == => Python Básico== 
+## == => Python Basic==
 # 
-### Comandos Essenciais da Linguagem Python  
-### Essential Commands of th Python Language
+### ==Comandos Essenciais da Linguagem Python==
+### ==Essential Commands of th Python Language==
 # 
 #### A linguagem Python apresenta diversos comandos importantes e multifuncionais para contribuir na programação. Para auxiliar o estudo, destaquei alguns dos comandos mais empregados, juntamente com exemplos básicos que ensinam suas funções: 
 #### The python language presents several important and multifunctional commands to contribute to programming. To aid the study, I highlighted some of the most used commands, along with practical examples that teach their functions: 
@@ -72,20 +72,20 @@
 #
 #
 #
-## <p>*Gostou do Conteúdo?
-## *Did you like the content?</p>
+## == <p>*Gostou do Conteúdo?==
+## == *Did you like the content?</p> ==
 #
-### Breve estará disponível o Compilado Prático de nível Intermediário.
-### The Intermediate level Practical Compilation will soon be available.
+### == Breve estará disponível o Compilado Prático de nível Intermediário.==
+### == The Intermediate level Practical Compilation will soon be available.==
 #
-## <p>Bons Estudos!
-## Happy Studies!</p>
+## == <p>Bons Estudos!==
+## == Happy Studies!</p>==
 #
-### <em>> Este conteúdo foi produzido por Carmin Dias Ilarraz.
-### > This content was produced by Carmin Dias Ilarraz.</em>
+### == <em>> Este conteúdo foi produzido por Carmin Dias Ilarraz.==
+### == > This content was produced by Carmin Dias Ilarraz.</em> ==
 #
-### Contato via mensagens eletrônicas: @carmin.ilarraz
-### Contact via eletrônic messages: @carmin.ilarraz
+### == Contato via mensagens eletrônicas: @carmin.ilarraz==
+### == Contact via eletrônic messages: @carmin.ilarraz==
 
 
 
