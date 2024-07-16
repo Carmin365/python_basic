@@ -7,8 +7,8 @@ text = "This is an example of manipulation of strings."
 # Line 2 >> Convert to capital letters # Converte para maiúsculas
 # Line 3 >> Convert to lowercase # Convert para minúsculas
 # Line 4 >> Divide into a list by spaces # Divide em uma lista por espaços.
-# Line 5 >> Displays the content of the variable in the console # Exibe o conteúdo da variável no console.
-# Line 6 >> Displays the content of the variable in the console # Exibe o conteúdo da variável no console.
+# Line 5 >> Shows the content of the variable in the console # Mostra o conteúdo da variável no console.
+# Line 6 >> Shows the content of the variable in the console # Mostra o conteúdo da variável no console.
 # Line 7 >> Print() without any arguments, inserts a line break, which moves the cursor of the next line in the console # Print() sem nenhum argumento, insere uma quebra de linha, o que move o cursor para a próxima linha no console.
 text_capital = text.upper()  
 text_tiny = text.lower()  
