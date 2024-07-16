@@ -10,10 +10,10 @@ subtracao = 20 - 5
 multiplicacao = 8 * 2  
 divisao = 100 / 2  
 
-# Line 5 >> The function print(sum) displays the value inside the parentheses in the console. # A função print(soma) exibe no console o valor que está dentro dos parênteses.
-# Line 6 >> The function print(subtraction) displays the value inside the parentheses in the console. # A função print(subtração) exibe no console o valor que está dentro dos parênteses.
-# Line 7 >> The function print(multiplication) displays the value inside the parentheses in the console. # A função print(multiplicação) exibe no console o valor que está dentro dos parênteses.
-# Line 8 >> The function print(division) displays the value inside the parentheses in the console. # A função print(divisão) exibe no console o valor que está dentro dos parênteses.
+# Line 5 >> The function print(sum) shows the value inside the parentheses in the console. # A função print(soma) exibe no console o valor que está dentro dos parênteses.
+# Line 6 >> The function print(subtraction) shows the value inside the parentheses in the console. # A função print(subtração) exibe no console o valor que está dentro dos parênteses.
+# Line 7 >> The function print(multiplication) shows the value inside the parentheses in the console. # A função print(multiplicação) exibe no console o valor que está dentro dos parênteses.
+# Line 8 >> The function print(division) shows the value inside the parentheses in the console. # A função print(divisão) exibe no console o valor que está dentro dos parênteses.
 print(soma)  
 print(subtracao) 
 print(multiplicacao) 
