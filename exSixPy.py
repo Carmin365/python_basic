@@ -9,6 +9,6 @@ def somar(number_one, number_two):
     return resultado  
 
     # Line 4 >> Declaration of variable 'sum_total' and assigning a value to it. # Declaração da variável 'soma_total' e atribuição de um valor à ela.
-    # Line 5 >> Print(sum_total) displays the value inside the parentheses in the control, in this case, the result of the operation performed on the previous line.  # Print(soma_total) exibe no console o valor que está dentro dos parênteses, neste caso, o resultado da operação realizada na linha anterior.
+    # Line 5 >> Print(sum_total) shows the value inside the parentheses in the control, in this case, the result of the operation performed on the previous line.  # Print(soma_total) exibe no console o valor que está dentro dos parênteses, neste caso, o resultado da operação realizada na linha anterior.
     soma_total = somar(10, 20)  
     print(soma_total) 
